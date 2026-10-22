@@ -1,0 +1,13 @@
+name = "libimm_i_ty"
+author = "Bartek1887"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "39a68c184422e469c6a6ee7fd1e6b41bfe6cdb93bedf88eda0efc6ef6953187f"
+
+[versions]
+forge = "47.4.23"
+minecraft = "1.20.1"

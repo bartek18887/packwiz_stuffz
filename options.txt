@@ -1,0 +1,3 @@
+version:3465
+pauseOnLostFocus:false
+darkMojangStudiosBackground:true
