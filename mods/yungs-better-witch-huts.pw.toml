@@ -1,13 +1,13 @@
 name = "YUNG's Better Witch Huts"
-filename = "YungsBetterWitchHuts-1.20-Forge-3.0.3.jar"
+filename = "YungsBetterWitchHuts-1.21.1-Forge-4.1.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/t5FRdP87/versions/mwlYB7rq/YungsBetterWitchHuts-1.20-Forge-3.0.3.jar"
+url = "https://cdn.modrinth.com/data/t5FRdP87/versions/QNpL2Sw4/YungsBetterWitchHuts-1.21.1-Forge-4.1.1.jar"
 hash-format = "sha512"
-hash = "c17d5b07ecf44aa4539bd7af37882a63ab73ec10dd2c9675ed715e7c1f0ee73ee9d9c32bfddfb67f8f3c6f8b753cb965119e31e64926ea6d50ef33f881fc61f1"
+hash = "f539e2fe27be5d92bc145a5a47f8fbc8f101489ee5443ed04a00d192f5b6eb11761f0ca23bc4355b9af7c70665f0452246f6af2bf9f48b7e45c2a40c6399ec65"
 
 [update]
 [update.modrinth]
 mod-id = "t5FRdP87"
-version = "mwlYB7rq"
+version = "QNpL2Sw4"

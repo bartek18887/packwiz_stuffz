@@ -1,13 +1,13 @@
 name = "Better Advancements"
-filename = "BetterAdvancements-Forge-1.20.1-0.6.0.73.jar"
+filename = "BetterAdvancements-Forge-1.21.1-0.4.3.21.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Q2OqKxDG/versions/zKOCnRdK/BetterAdvancements-Forge-1.20.1-0.6.0.73.jar"
+url = "https://cdn.modrinth.com/data/Q2OqKxDG/versions/UBmqGzyP/BetterAdvancements-Forge-1.21.1-0.4.3.21.jar"
 hash-format = "sha512"
-hash = "1279a47be84e5f24c2518bd75a276e09ed5262a96573657b48d4bf0160a7f3f6749a38f8d51200cd2883e9fd90dbb4a3cbca59c09ce1b998d212db98cb677dea"
+hash = "2e47ca452b8db3240d3de27cdb7bcdec8592759930d6941e8c15592d86952ad4d87c7399428eeb5212502f73380e36c1d9fb83061edb3c41890318c8ae1ace86"
 
 [update]
 [update.modrinth]
 mod-id = "Q2OqKxDG"
-version = "zKOCnRdK"
+version = "UBmqGzyP"

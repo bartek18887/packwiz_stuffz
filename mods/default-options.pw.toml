@@ -1,13 +1,13 @@
 name = "Default Options"
-filename = "defaultoptions-forge-1.20.1-18.0.5.jar"
+filename = "defaultoptions-forge-1.21.1-21.1.8.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/WEg59z5b/versions/AVz3mvZZ/defaultoptions-forge-1.20.1-18.0.5.jar"
+url = "https://cdn.modrinth.com/data/WEg59z5b/versions/PIwYeEw5/defaultoptions-forge-1.21.1-21.1.8.jar"
 hash-format = "sha512"
-hash = "703f2a710ab099fadaaeb96a02fd381ef8eda2f60bb80537c2e7855fc505bf36bbff3e1df216bc85fd60841bb548c3785314fdcef39d12c2ebfabb224b066e0d"
+hash = "500db5ff16084e6ca2d08e58d86688fe3498003495da36762e5fdc3027a82e9a85fb7a970fe35213f9edd12b3df1117fdcd088e1286d652e26cd4ec8a229196f"
 
 [update]
 [update.modrinth]
 mod-id = "WEg59z5b"
-version = "AVz3mvZZ"
+version = "PIwYeEw5"
