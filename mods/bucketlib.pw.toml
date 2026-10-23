@@ -1,13 +1,13 @@
 name = "BucketLib"
-filename = "bucketlib-1.20.1-2.3.8.0.jar"
+filename = "bucketlib-neoforge-1.21-4.1.7.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/DItE655o/versions/vkc1qThF/bucketlib-1.20.1-2.3.8.0.jar"
+url = "https://cdn.modrinth.com/data/DItE655o/versions/Jx9AEhUT/bucketlib-neoforge-1.21-4.1.7.2.jar"
 hash-format = "sha512"
-hash = "da48f41ac0ca04eb32712cdaa4f5a9a9ce35dfcb264f749c87575ab4da3d62b8d16f75be1655bc1b8c7ad3d598484ebaee9237c41794c76d4db47c237d433297"
+hash = "98fb0a2847e704da3286b0289fbae71c93738e09b42085f56414c1564acd8f0e456d64e007f36554074b52bb1d80581507e303afa50d068b69a3c46eb1212a9a"
 
 [update]
 [update.modrinth]
 mod-id = "DItE655o"
-version = "vkc1qThF"
+version = "Jx9AEhUT"
