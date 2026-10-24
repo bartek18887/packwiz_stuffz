@@ -1,0 +1,13 @@
+name = "Locator Bar"
+filename = "LocatorBar-neoforge-1.2.4+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BD7N7OcY/versions/T99P6QRt/LocatorBar-neoforge-1.2.4%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "e8230a0948cd351a34a60177453d8ca714d78c7b52a8771434e6190e63806c67ae935a5e75049cf9db1f405d4112d4b433d1b5b0562ab0d2a0ce09809caac8d8"
+
+[update]
+[update.modrinth]
+mod-id = "BD7N7OcY"
+version = "T99P6QRt"
