@@ -154,11 +154,6 @@ hash = "fcfacd2acbc4c9d3e62406ff7d212412324dd7767a0fd2ff4f58c91ac51c8850"
 metafile = true
 
 [[files]]
-file = "mods/cherished-worlds.pw.toml"
-hash = "63f417eca4f251f85a5ae512394cbb9fa88dfdfb2b934b94637ba8b7dac1a831"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
@@ -744,11 +739,6 @@ hash = "dde31f05114c72cb2f58e522417487730b872e456f77fdd02c032c9235791f6c"
 metafile = true
 
 [[files]]
-file = "mods/yungs-better-desert-temples.pw.toml"
-hash = "c2cb28859e7bcc0eb4ce59c5792f90fa5f8ab8865f5867ba26a5a345ec60b498"
-metafile = true
-
-[[files]]
 file = "mods/yungs-better-dungeons.pw.toml"
 hash = "1496ffa30020676979e65921b91e583a2fdc77e50001e2ed55f99edf1a0ae880"
 metafile = true
@@ -764,18 +754,8 @@ hash = "e839608ebc974e9e7819adc7bf29132ea86fc41b46af540fe0fa39b2007b2439"
 metafile = true
 
 [[files]]
-file = "mods/yungs-better-nether-fortresses.pw.toml"
-hash = "50c1731148d91a4ef05cfc47f759ca8fb3dad254e15ce4ecc5732d6fbfa68637"
-metafile = true
-
-[[files]]
 file = "mods/yungs-better-ocean-monuments.pw.toml"
 hash = "a2d7176026abf4a68a663b375811a603c508f36062cc7fb5b45416e1462682a8"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-strongholds.pw.toml"
-hash = "03084966c05070b5c4b17cd89234f3c0d813940a2d76b405a6699deac10a0ab8"
 metafile = true
 
 [[files]]
